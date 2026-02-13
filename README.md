@@ -65,6 +65,7 @@ src
   │    ├─ Admin.java  
   │    ├─ HR.java  
   │    └─ SalesManager.java 
+  |
   ├─ controller  
   │    └─ EmployeeDao.java  
   └─ view  
