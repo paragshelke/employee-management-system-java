@@ -8,8 +8,7 @@ public class Hr extends Employee implements Serializable
 
 	public Hr()
 	{
-		super();
-		this.commission = 0.0;
+	
 	}
 
 	public Hr(int id, String name, double salary,double commission)
